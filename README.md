@@ -13,3 +13,4 @@ This Python script automatically creates a clean, formatted PDF report after rea
 
 ##OUTPUT
 
+<img width="737" height="284" alt="Image" src="https://github.com/user-attachments/assets/eb2e79e0-755e-4797-9bd2-adcd2b95a843" />
